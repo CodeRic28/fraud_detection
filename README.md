@@ -6,4 +6,5 @@ Dataset: https://www.kaggle.com/datasets/ealaxi/paysim1
 Dataset
     - raw.csv
 
-
+### Instal dependencies
+```pip install requirements.txt```
